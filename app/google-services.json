@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443371272113",
+    "project_id": "u-care-a0f65",
+    "storage_bucket": "u-care-a0f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443371272113:android:c323079e0406980c3b2f90",
+        "android_client_info": {
+          "package_name": "com.project.ucare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443371272113-ed551v9cteirj78k2ubkub0gp7regu8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_rP9RomLc_UtYMpv1hjjy8w-X8vAcgv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443371272113-ed551v9cteirj78k2ubkub0gp7regu8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
